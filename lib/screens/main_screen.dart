@@ -98,18 +98,6 @@ class _MainScreenState extends State<MainScreen> {
             _buildOffstageNavigator(2),
           ],
         ),
-
-//        body: CommonBottomNavigationBar(
-//          selectedIndex: _selectedIndex,
-//          navigatorKeys: _navigatorKeys,
-//          childrens: [
-//            HomePage(),
-//            CalendarPage(
-//              onNext: _next,
-//            ),
-//            ProfilePage(),
-//          ],
-//        ),
       ),
     );
   }
