@@ -4,5 +4,5 @@ Check out the blog [Here](https://medium.com/@singhgursheesh12/common-bottom-nav
 
 ## Screenshots
 
-![End Result]( screenshots/end.gif "End Result")
+![End Result]( screeenshots/end.gif "End Result")
 
